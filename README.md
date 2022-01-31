@@ -12,3 +12,5 @@ https://vidurham.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Vincent Durham
+
+### ©️2019 Run Buddy, Inc
